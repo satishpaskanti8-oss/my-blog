@@ -48,3 +48,18 @@ padding:20px;
 flex-direction:column;
 }
 }
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    background-color: black;
+    padding: 10px;
+    text-decoration: none;
+}
